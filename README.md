@@ -3,4 +3,4 @@ We use this repo to polish our ability in designing pretty diagrams for papers, 
 
 Useful Resources:
 1.   [TikZ and PGF](https://texample.net/) are TeX packages for creating graphics programmatically
-2.   [Altair](https://altair-viz.github.io/) is a declarative statistical visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](http://vega.github.io/vega-lite), and the [source](http://github.com/altair-viz/altair) is available on GitHub.
+2.   [Altair](https://altair-viz.github.io/) is a declarative statistical visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](http://vega.github.io/vega-lite), and the [source](http://github.com/altair-viz/altair) is available on GitHub. An introduction of Altair is available here, [Exploratory Data Visualization with Vega, Vega Lite, and Altair](https://www.youtube.com/watch?v=SFMZw6KcoBg).
