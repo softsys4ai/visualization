@@ -22,6 +22,8 @@ We use this repo to polish our ability in designing pretty diagrams for papers, 
 # Blog
 * [Visualization of Biostatistics and Medical Informatics](https://kbroman.org/morefigs.html)
 * [Falx: Synthesis-powered Visualization Authoring](https://falx.cs.washington.edu/)
+* [Software to draw graphical models in plate notation](https://stackoverflow.com/questions/3461931/software-to-draw-graphical-models-in-plate-notation/16334517#16334517)
+* [Communicating with Interactive Articles](https://distill.pub/2020/communicating-with-interactive-articles/)
 
 # Tips:
 * If you are using Power Point, one way to avoid low quality images in Power Point is to go to File->Compress Pictures->Picture quality and set it to 'Use Original'.
