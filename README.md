@@ -25,12 +25,12 @@ We use this repo to polish our ability in designing pretty diagrams for papers, 
 * [Software to draw graphical models in plate notation](https://stackoverflow.com/questions/3461931/software-to-draw-graphical-models-in-plate-notation/16334517#16334517)
 * [Communicating with Interactive Articles](https://distill.pub/2020/communicating-with-interactive-articles/)
 
-# Tips:
-* If you are using Power Point, one way to avoid low quality images in Power Point is to go to File->Compress Pictures->Picture quality and set it to 'Use Original'.
-
 # Website Style & Themes:
 * [Jekyll Pygments Themes](https://github.com/jwarby/jekyll-pygments-themes)
 * [a simple whitespace theme for academics](https://alshedivat.github.io/al-folio/)
 * [Katex: The fastest math typesetting library for the web](https://katex.org/)
 * [The github status card](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 * [Github Profile Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
+# Tips:
+* If you are using Power Point, one way to avoid low quality images in Power Point is to go to File->Compress Pictures->Picture quality and set it to 'Use Original'.
