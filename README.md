@@ -5,6 +5,13 @@ We use this repo to polish our ability in designing pretty diagrams for papers, 
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book)
 
 # Tools
+
+## Interactive visualization tools
+   * [Falx](https://falx.cs.washington.edu/)
+   * [UpSet2](https://vdl.sci.utah.edu/upset2/)
+   * [py-upset](https://github.com/ImSoErgodic/py-upset)
+   * [UpSet](https://upset.app/interactive/)
+
 ## Bayesnet and other graphical models
    * [TikZ library](https://github.com/jluttine/tikz-bayesnet) 
    * [GraphViz](https://graphviz.org/)
