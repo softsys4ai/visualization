@@ -17,6 +17,7 @@ We use this repo to polish our ability in designing pretty diagrams for papers, 
    * [GraphViz](https://graphviz.org/)
 
 ## Alternatives for Adobe Illustrator (non-free).
+* [diagrams](https://www.diagrams.net/)
 * [Inkscape](https://inkscape.org/)
 * [vecteezy](https://www.vecteezy.com/editor)
 * [Pixlr](https://pixlr.com/)
