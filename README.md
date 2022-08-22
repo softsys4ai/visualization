@@ -1,4 +1,4 @@
-# Aim of the repo
+# Visualization matters
 We use this repo to polish our ability in designing pretty diagrams for papers, posters, thesis and so on. We plan to do the practice and meet periodically. The resulting designs will be collected into appropriate libraries for future reuse.
 
 # Books
@@ -23,6 +23,9 @@ We use this repo to polish our ability in designing pretty diagrams for papers, 
 * [vecteezy](https://www.vecteezy.com/editor)
 * [Pixlr](https://pixlr.com/)
 * [LucidChard](https://www.lucidchart.com)
+
+## Programatic Visualization
+* [Plot Neural Networks](https://github.com/HarisIqbal88/PlotNeuralNet)
 
 ## Libraries
 * [D3.js: JavaScript library for manipulating documents based on data](https://d3js.org/)
