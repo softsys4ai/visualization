@@ -59,6 +59,7 @@ We use this repo to polish our ability in designing pretty diagrams for papers, 
 * [Falx: Synthesis-powered Visualization Authoring](https://falx.cs.washington.edu/)
 * [Software to draw graphical models in plate notation](https://stackoverflow.com/questions/3461931/software-to-draw-graphical-models-in-plate-notation/16334517#16334517)
 * [Communicating with Interactive Articles](https://distill.pub/2020/communicating-with-interactive-articles/)
+* [Information is Beautiful](https://informationisbeautiful.net/)
 
 # Website Style & Themes:
 * [Jekyll Pygments Themes](https://github.com/jwarby/jekyll-pygments-themes)
