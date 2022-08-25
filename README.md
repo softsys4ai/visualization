@@ -13,8 +13,11 @@ We use this repo to polish our ability in designing pretty diagrams for papers, 
    * [UpSet](https://upset.app/interactive/)
 
 ## Bayesnet and other graphical models
-   * [TikZ library](https://github.com/jluttine/tikz-bayesnet) 
-   * [GraphViz](https://graphviz.org/)
+* [TikZ Bayesnet library](https://github.com/jluttine/tikz-bayesnet) 
+* [GraphViz](https://graphviz.org/)
+* [Graph Visualization](https://graphviz.org/)
+* [Graphical model visualization](https://stackoverflow.com/questions/3461931/software-to-draw-graphical-models-in-plate-notation/16334517#16334517)
+
 
 ## Alternatives for Adobe Illustrator (non-free).
 * [Diagram as Code](https://github.com/mingrammer/diagrams)
@@ -24,11 +27,28 @@ We use this repo to polish our ability in designing pretty diagrams for papers, 
 * [Pixlr](https://pixlr.com/)
 * [LucidChard](https://www.lucidchart.com)
 
-## Programatic Visualization
+## NN Visualization
 * [Plot Neural Networks](https://github.com/HarisIqbal88/PlotNeuralNet)
+* [Designing DNN](https://github.com/lutzroeder/netron)
+* [Visualizing ML](https://github.com/dair-ai/ml-visuals)
+* [Visualizing Embeddings](https://projector.tensorflow.org/)
+* [Designing DNN](http://alexlenail.me/NN-SVG/LeNet.html)
+* [Other DNN design tools](https://www.quora.com/What-tools-are-good-for-drawing-neural-network-architecture-diagrams)
+
+## Mindmaps
+* [A Free Online Diagram Tool Allowing Co-editing](draw.io)
+* [Free Mind: a Free Offline Mind Mapping Tool](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
+* [Mind Meister: an Online Mind Mapping Tool](https://www.mindmeister.com/)
+* [Sketchboard: an Online Mind Mapping Tool](https://sketchboard.io/)
 
 ## Libraries
 * [D3.js: JavaScript library for manipulating documents based on data](https://d3js.org/)
+* [R visualization](https://github.com/jorvlan/open-visualizations)
+
+## Video Editting
+* [Video Editting](https://www.openshot.org/)
+* [OBS](https://www.openshot.org/)
+
 
 # Papers
 * [MERLOT: Multimodal Neural Script Knowledge Models](https://arxiv.org/pdf/2106.02636.pdf)
