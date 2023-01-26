@@ -28,6 +28,7 @@ We use this repo to polish our ability in designing pretty diagrams for papers, 
 * [LucidChard](https://www.lucidchart.com)
 
 ## NN Visualization
+* [ManimML](https://github.com/helblazer811/ManimML)
 * [Plot Neural Networks](https://github.com/HarisIqbal88/PlotNeuralNet)
 * [Designing DNN](https://github.com/lutzroeder/netron)
 * [Visualizing ML](https://github.com/dair-ai/ml-visuals)
